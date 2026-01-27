@@ -121,7 +121,7 @@ Hansung University, Korea
 - **Pages**: 41–48  
 - **Published**: 2025-12  
 - **Affiliation**: Hansung University  
-- **Link**: https://www.dbpia.co.kr/
+- **Link**: https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12547751
 
 ---
 

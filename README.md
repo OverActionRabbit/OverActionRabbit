@@ -1,4 +1,4 @@
-# 🧑‍🎓✨ Hi, I'm  (**JongYun Choi**)
+# 🧑‍🎓✨ **JongYun Choi**)
 
 Graduate student & Digital Forensics / Security Researcher  
 Hansung University, Korea  

@@ -70,7 +70,7 @@ Hansung University, Korea
 
 ### 🥈 5. 은상 (한국포렌식학회 논문경진대회)
 
-<img src="./award/FR.jpeg" align="right" width="180" style="margin-left: 16px;" valign="top"/>
+<img src="./award/FR.jpe" align="right" width="180" style="margin-left: 16px;" valign="top"/>
 
 **학회:** 2025 제2회 논문경진대회 (한국포렌식학회)  
 **논문 제목:** 조직 내부 데이터 압수 수색을 위한 그룹웨어 포렌식 기술 연구: DaouOffice를 중심으로  

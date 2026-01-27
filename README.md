@@ -7,10 +7,26 @@ Hansung University, Korea
 
 ## 🎓 Education
 
-| <img src="./award/HU.png" width="40"/> | **M.S. in Information Security**<br>Department of Convergence Security<br>Hansung University, Korea<br>Graduate Student |
-| <img src="./award/HKNU.png" width="40"/> | **B.S. in Software & Service Computing**<br>Department of Software & Service Computing<br>Hankyong National University, Korea |
+<div style="display:flex; align-items:flex-start; gap:10px;">
+  <img src="./award/HU.png" width="40"/>
+  <div>
+    <b>M.S. in Information Security</b><br>
+    Department of Convergence Security<br>
+    Hansung University, Korea<br>
+    Graduate Student
+  </div>
+</div>
 
-<br clear="all"/>
+<br>
+
+<div style="display:flex; align-items:flex-start; gap:10px;">
+  <img src="./award/HKNU.png" width="40"/>
+  <div>
+    <b>B.S. in Software & Service Computing</b><br>
+    Department of Software & Service Computing<br>
+    Hankyong National University, Korea
+  </div>
+</div>
 
 ---
 

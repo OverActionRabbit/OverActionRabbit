@@ -9,7 +9,7 @@ Hansung University, Korea
 
 <img src="./award/HU.png" width="40" align="left" style="margin-right:10px;"/>
 
-**M.S. in Information Security**  
+**M.S. in Information Security (융합보안학과)**  
 Hansung University, Korea  
 Graduate Student  
 
@@ -17,7 +17,7 @@ Graduate Student
 
 <img src="./award/HKNU.png" width="40" align="left" style="margin-right:10px;"/>
 
-**B.S. in Computer Engineering**  
+**B.S. in Software & Service Computing (소프트웨어＆서비스컴퓨팅)**  
 Hankyong National University, Korea  
 
 <br clear="all"/>

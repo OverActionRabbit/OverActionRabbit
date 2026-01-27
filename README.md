@@ -21,7 +21,6 @@ Graduate Student
 Hankyong National University, Korea  
 
 <br clear="all"/>
-
 ---
 
 ## 🏆 Honors & Awards

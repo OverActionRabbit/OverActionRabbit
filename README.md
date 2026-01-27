@@ -84,7 +84,7 @@ Hansung University, Korea
 ## 📄 Publications
 
 ### 🔹 암호화폐 기반 랜섬 머니 지급 흐름과 추적 기술 동향  
-- **Authors**: **최종윤**(제2저자, Second Author), 신민석, 박화비, 한동균, 신준성, 박명서  
+- **Authors**: **최종윤**(주저자, First Author), 신민석, 박화비, 한동균, 신준성, 박명서  
 - **Journal**: 정보보호학회지  
 - **Volume / Issue**: Vol.35, No.6  
 - **Pages**: 41–48  
@@ -107,7 +107,7 @@ Hansung University, Korea
 
 ## 📫 Contact
 
-- Email: your_email@example.com  
+- Email: zheld0412@gmail.com  
 - Research Interests:  
   - Digital Forensics  
   - Mobile App Forensics  

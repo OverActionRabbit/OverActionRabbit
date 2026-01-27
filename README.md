@@ -31,7 +31,7 @@ Hansung University, Korea
 
 ### 🥇 2. 정보보호학회장상 (우수논문)
 
-<img src="./awards/e.jpeg" align="right" width="180" style="margin-left: 16px;" valign="top"/>
+<img src="./award/JB.jpeg" align="right" width="180" style="margin-left: 16px;" valign="top"/>
 
 **학회:** 2025년도 한국정보보호학회 동계학술대회  
 **논문 제목:** CLOVA Note API 기반 음성 포렌식 및 발화 분석 연구  
@@ -44,7 +44,7 @@ Hansung University, Korea
 
 ### 🥇 3. 한국전자통신연구원(ETRI) 원장상
 
-<img src="./awards/ETRI.jpeg" align="right" width="180" style="margin-left: 16px;" valign="top"/>
+<img src="./award/ETRI.jpeg" align="right" width="180" style="margin-left: 16px;" valign="top"/>
 
 **학회:** 2025 한국정보보호학회 충청지부 학술대회  
 **논문 제목:** 그룹웨어 포렌식 기법 연구: Hiworks–DaouOffice 사례  
@@ -57,7 +57,7 @@ Hansung University, Korea
 
 ### 🥇 4. 우수논문상 (호남지부)
 
-<img src="./awards/g.jpeg" align="right" width="180" style="margin-left: 16px;" valign="top"/>
+<img src="./award/HN.jpeg" align="right" width="180" style="margin-left: 16px;" valign="top"/>
 
 **학회:** 2025 제6회 호남사이버보안 컨퍼런스 추계학술대회  
 **논문 제목:** 생성형 AI 기반 Perplexity 대화 데이터 획득 방안 연구  

@@ -5,6 +5,25 @@ Hansung University, Korea
 
 ---
 
+## 🎓 Education
+
+<img src="./education/hansung.png" width="40" align="left" style="margin-right:10px;"/>
+
+**M.S. in Information Security**  
+Hansung University, Korea  
+Graduate Student  
+
+<br clear="all"/>
+
+<img src="./education/hknu.png" width="40" align="left" style="margin-right:10px;"/>
+
+**B.S. in Computer Engineering**  
+Hankyong National University, Korea  
+
+<br clear="all"/>
+
+---
+
 ## 🏆 Honors & Awards
 
 > All awards below are official certificates from academic conferences and university competitions.  
@@ -78,8 +97,6 @@ Hansung University, Korea
 **수상일:** 2025-09-23  
 
 <br clear="all"/>
-
----
 
 ## 🎤 Conference Presentations
 

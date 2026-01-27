@@ -7,7 +7,7 @@ Hansung University, Korea
 
 ## 🎓 Education
 
-<img src="./education/hansung.png" width="40" align="left" style="margin-right:10px;"/>
+<img src="./award/HKNU.png" width="40" align="left" style="margin-right:10px;"/>
 
 **M.S. in Information Security**  
 Hansung University, Korea  
@@ -15,7 +15,7 @@ Graduate Student
 
 <br clear="all"/>
 
-<img src="./education/hknu.png" width="40" align="left" style="margin-right:10px;"/>
+<img src="./award/HU.png" width="40" align="left" style="margin-right:10px;"/>
 
 **B.S. in Computer Engineering**  
 Hankyong National University, Korea  

@@ -18,7 +18,7 @@ Hansung University, Korea
 
 ### 🥇 1. 한국방송통신전파진흥원장상(KCA) (우수논문)
 
-<img src="./awards/KCA.jpeg" align="right" width="180" style="margin-left: 16px;" valign="top"/>
+<img src="./award/KCA.jpeg" align="right" width="180" style="margin-left: 16px;" valign="top"/>
 
 **학회:** 2025 제6회 호남 사이버보안 컨퍼런스  
 **논문 제목:** Wrtn API 재구성에 기반한 생성형 AI 대화 기록물 포렌식 수집과 재현성 검증  

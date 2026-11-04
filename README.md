@@ -266,10 +266,9 @@ Hangyeol Kim, Dabin We, <b>Jongyun Choi</b>, Myungseo Park
 Forensic Science International: Digital Investigation · Vol. 58 · 2026
 
 **논문 링크**  
-<!-- 논문 개별 페이지 URL 확인 후 아래 주석을 해제하고 주소를 입력하세요. -->
-<!-- <a href="논문_URL">논문 보기 ↗</a> -->
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S2666281726001526">논문 보기 ↗</a>
 
-</td><td width="180" align="center" valign="middle"><img src="./papers/paper_international_2026.jpg" width="140" alt="논문 첫 페이지"></td></tr></table>
+</td><td width="180" align="center" valign="middle"><a href="https://www.sciencedirect.com/science/article/abs/pii/S2666281726001526"><img src="./papers/paper_international_2026.jpg" width="140" alt="논문 첫 페이지"></a></td></tr></table>
 
 ### Domestic Journals
 
@@ -278,8 +277,7 @@ Forensic Science International: Digital Investigation · Vol. 58 · 2026
 <table width="760"><tr><td width="580" valign="top">
 
 **제목**  
-생성형 AI 대화 데이터의 수집 및 분석 연구: 
-Wrtn과 Perplexity 애플리케이션 중심으로
+생성형 AI 대화 데이터의 수집 및 분석 연구: Wrtn과 Perplexity 애플리케이션 중심으로
 
 **저자**  
 <b>최종윤</b>, 신민석, 김동인, 김한결, 박명서
@@ -288,10 +286,9 @@ Wrtn과 Perplexity 애플리케이션 중심으로
 정보보호학회논문지 · 36(4) · pp. 1443–1463 · 2026
 
 **논문 링크**  
-<!-- 논문 개별 페이지 URL 확인 후 아래 주석을 해제하고 주소를 입력하세요. -->
-<!-- <a href="논문_URL">논문 보기 ↗</a> -->
+<a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12942138">논문 보기 ↗</a>
 
-</td><td width="180" align="center" valign="middle"><img src="./papers/paper_wrtn_perplexity_2026.jpg" width="140" alt="논문 첫 페이지"></td></tr></table>
+</td><td width="180" align="center" valign="middle"><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12942138"><img src="./papers/paper_wrtn_perplexity_2026.jpg" width="140" alt="논문 첫 페이지"></a></td></tr></table>
 
 <table width="760"><tr><td width="580" valign="top">
 
@@ -305,10 +302,9 @@ Wrtn과 Perplexity 애플리케이션 중심으로
 디지털포렌식연구 · 20(3) · pp. 126–152 · 2026
 
 **논문 링크**  
-<!-- 논문 개별 페이지 URL 확인 후 아래 주석을 해제하고 주소를 입력하세요. -->
-<!-- <a href="논문_URL">논문 보기 ↗</a> -->
+<a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12904434">논문 보기 ↗</a>
 
-</td><td width="180" align="center" valign="middle"><img src="./papers/paper_notification_2026.jpg" width="140" alt="논문 첫 페이지"></td></tr></table>
+</td><td width="180" align="center" valign="middle"><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12904434"><img src="./papers/paper_notification_2026.jpg" width="140" alt="논문 첫 페이지"></a></td></tr></table>
 
 <table width="760"><tr><td width="580" valign="top">
 
@@ -322,10 +318,9 @@ Wrtn과 Perplexity 애플리케이션 중심으로
 법과학의신동향 · 통권 13호 · pp. 163–189 · 2026
 
 **논문 링크**  
-<!-- 논문 개별 페이지 URL 확인 후 아래 주석을 해제하고 주소를 입력하세요. -->
-<!-- <a href="논문_URL">논문 보기 ↗</a> -->
+<a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003331390">논문 보기 ↗</a>
 
-</td><td width="180" align="center" valign="middle"><img src="./papers/paper_notes_2026.jpg" width="140" alt="논문 첫 페이지"></td></tr></table>
+</td><td width="180" align="center" valign="middle"><a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003331390"><img src="./papers/paper_notes_2026.jpg" width="140" alt="논문 첫 페이지"></a></td></tr></table>
 
 #### ⭐ 2025
 

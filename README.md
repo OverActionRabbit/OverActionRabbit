@@ -1,8 +1,17 @@
 <div align="center">
 
-<img src="./profile-banner.svg" width="100%" alt="🧑‍🎓 JongYun Choi · 디지털 포렌식 및 정보보안 연구자 · 한성대학교 대학원 융합보안학과">
+# 🧑‍🎓 JongYun Choi
 
-<a href="#honors-awards"><img src="https://img.shields.io/badge/🏆_ACADEMIC_AWARDS-9-9B83DB?style=for-the-badge&labelColor=171329" alt="Academic Awards 9"></a> <a href="#conference-presentations"><img src="https://img.shields.io/badge/🌟_CONFERENCE_PAPERS-16-7BC8E9?style=for-the-badge&labelColor=171329" alt="Conference Papers 16"></a> <a href="#publications"><img src="https://img.shields.io/badge/🌙_JOURNAL_ARTICLES-5-F5A9C6?style=for-the-badge&labelColor=171329" alt="Journal Articles 5"></a>
+**디지털 포렌식 및 정보보안 연구자**  
+한성대학교 대학원 융합보안학과
+
+<sub>✦ Digital Forensics · Cloud & Groupware Forensics · AI Data Forensics ✦</sub>
+
+<br>
+
+<a href="#honors-awards"><img src="https://img.shields.io/badge/✦_ACADEMIC_AWARDS-9-9B83DB?style=flat-square&labelColor=101020" alt="Academic Awards 9"></a> <a href="#conference-presentations"><img src="https://img.shields.io/badge/✦_CONFERENCE_PAPERS-16-7BC8E9?style=flat-square&labelColor=101020" alt="Conference Papers 16"></a> <a href="#publications"><img src="https://img.shields.io/badge/✦_JOURNAL_ARTICLES-5-F5A9C6?style=flat-square&labelColor=101020" alt="Journal Articles 5"></a>
+
+<sub>🌙 · ✦ · 🪐 · ✧ · ⭐</sub>
 
 </div>
 

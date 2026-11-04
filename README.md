@@ -29,11 +29,11 @@
 <a id="honors-awards"></a>
 ## 🏆 Honors & Awards
 
-### 2026
+### 🌙 2026
 
 <table width="760"><tr><td width="580" valign="top">
 
-**01. 최우수 정보보호학회장상**
+**✦ 01. 최우수 정보보호학회장상**
 
 **학회 / 대회**  
 2026 한국정보보호학회 동계학술대회
@@ -51,7 +51,7 @@
 
 <table width="760"><tr><td width="580" valign="top">
 
-**02. 한국방송통신전파진흥원장상(KCA)**
+**✦ 02. 한국방송통신전파진흥원장상(KCA)**
 
 **학회 / 대회**  
 2026 제7회 호남 사이버보안 컨퍼런스  
@@ -70,7 +70,7 @@
 
 <table width="760"><tr><td width="580" valign="top">
 
-**03. 정보보호학회장상**
+**✦ 03. 정보보호학회장상**
 
 **학회 / 대회**  
 2026 부채널정보분석경진대회 워크샵
@@ -88,7 +88,7 @@
 
 <table width="760"><tr><td width="580" valign="top">
 
-**04. 부채널연구회장상**
+**✦ 04. 부채널연구회장상**
 
 **학회 / 대회**  
 2026 부채널정보분석경진대회 워크샵
@@ -104,11 +104,11 @@
 
 </td><td width="180" align="center" valign="middle"><img src="./award/2026_04.jpeg" width="140" alt="부채널연구회장상 상장"></td></tr></table>
 
-### 2025
+### ⭐ 2025
 
 <table width="760"><tr><td width="580" valign="top">
 
-**05. 한국방송통신전파진흥원장상(KCA)**
+**✦ 05. 한국방송통신전파진흥원장상(KCA)**
 
 **학회 / 대회**  
 2025 제6회 호남 사이버보안 컨퍼런스  
@@ -127,7 +127,7 @@ Wrtn API 재구성에 기반한 생성형 AI 대화 기록물 포렌식 수집�
 
 <table width="760"><tr><td width="580" valign="top">
 
-**06. 우수 정보보호학회장상**
+**✦ 06. 우수 정보보호학회장상**
 
 **학회 / 대회**  
 2025년도 한국정보보호학회 동계학술대회
@@ -145,7 +145,7 @@ CLOVA Note API 기반 음성 포렌식 및 발화 분석 연구
 
 <table width="760"><tr><td width="580" valign="top">
 
-**07. 한국전자통신연구원(ETRI) 원장상**
+**✦ 07. 한국전자통신연구원(ETRI) 원장상**
 
 **학회 / 대회**  
 2025 한국정보보호학회 충청지부 학술대회
@@ -163,7 +163,7 @@ CLOVA Note API 기반 음성 포렌식 및 발화 분석 연구
 
 <table width="760"><tr><td width="580" valign="top">
 
-**08. 정보보호학회 호남지부장상**
+**✦ 08. 정보보호학회 호남지부장상**
 
 **학회 / 대회**  
 2025 제6회 호남 사이버보안 컨퍼런스 추계학술대회
@@ -181,7 +181,7 @@ CLOVA Note API 기반 음성 포렌식 및 발화 분석 연구
 
 <table width="760"><tr><td width="580" valign="top">
 
-**09. 한국포렌식학회 논문경진대회 은상**
+**✦ 09. 한국포렌식학회 논문경진대회 은상**
 
 **학회 / 대회**  
 2025 제2회 논문경진대회
@@ -207,39 +207,39 @@ CLOVA Note API 기반 음성 포렌식 및 발화 분석 연구
 
 <br>
 
-### 2026 (8편)
+### 🌙 2026 (8편)
 
-#### 한국정보보호학회 동계학술대회
+#### ✦ 한국정보보호학회 동계학술대회
 
 <table width="760"><tr><td><p><b>Hiworks Messenger의 Socket.IO 기반 통신 프로토콜 역공학을 통한 메신저 데이터 획득</b><br>Authors: 신민석, 김한결, <b>최종윤</b>, 박명서</p><p><b>국가안보 관점에서 바라본 디지털 포렌식 기술 연구</b><br>Authors: <b>최종윤</b>, 김대환, 신민석, 김한결, 박명서</p></td></tr></table>
 
-#### 한국정보보호학회 호남지부 추계학술대회
+#### ✦ 한국정보보호학회 호남지부 추계학술대회
 
 <table width="760"><tr><td><p><b>클라우드 세션 크리덴셜 기반 Daglo 포렌식 분석 연구</b><br>Authors: <b>최종윤</b>, 신민석, 김대환, 박명서</p><p><b>안드로이드 환경에서의 정보은닉 애플리케이션 Private Photo Vault 분석 연구</b><br>Authors: 김대환, 안원석, <b>최종윤</b>, 신민석, 한동균, 박명서</p></td></tr></table>
 
-#### 한국디지털포렌식학회 하계학술대회
+#### ✦ 한국디지털포렌식학회 하계학술대회
 
 <table width="760"><tr><td><p><b>iOS 환경의 사용자 암호 기반 Vault 애플리케이션에 대한 복호화 연구</b><br>Authors: 위다빈, 안원석, <b>최종윤</b>, 김대환, 신민석, 박명서</p><p><b>음성 포렌식을 위한 한국어 음성 기반 특정 발화자 구분:유성 발화 구간 지속 시간 특징의 활용</b><br>Authors: 장규영, <b>최종윤</b>, 김대환, 박명서</p></td></tr></table>
 
-#### 한국정보보호학회 하계학술대회
+#### ✦ 한국정보보호학회 하계학술대회
 
 <table width="760"><tr><td><p><b>Google Drive 서비스의 API 재구성 기반 선택적 데이터 수집 및 숨김·삭제 파일 메타데이터 획득 연구</b><br>Authors: 신민석, <b>최종윤</b>, 김한결, 김대환, 박명서</p><p><b>상담 음성 기반 프로파일 화자 분리 및 발화 재구성 연구</b><br>Authors: <b>최종윤</b>, 신민석, 김대환, 김한결, 박명서</p></td></tr></table>
 
-### 2025 (8편)
+### ⭐ 2025 (8편)
 
-#### CISC-S 2025
+#### ✦ CISC-S 2025
 
 <table width="760"><tr><td><p><b>불법 스포츠 스트리밍 사이트 탐지를 위한 텍스트 키워드 기반 랜덤 포레스트 모델 설계</b><br>Authors: <b>최종윤</b>, 김한결, 박명서</p><p><b>크리덴셜 마이그레이션을 활용한 MYBOX 탐색기 대상의 클라우드 포렌식 연구</b><br>Authors: 김한결, 위다빈, 안원석, <b>최종윤</b>, 박명서</p></td></tr></table>
 
-#### KIISCCC 2025
+#### ✦ KIISCCC 2025
 
 <table width="760"><tr><td><p><b>그룹웨어 포렌식 기법 연구: Hiworks–DaouOffice 사례</b><br>Authors: 신민석, <b>최종윤</b>, 장규영, 김한결, 김동인, 박명서</p></td></tr></table>
 
-#### HONAM 2025
+#### ✦ HONAM 2025
 
 <table width="760"><tr><td><p><b>Wrtn API 재구성에 기반한 생성형 AI 대화 기록물 포렌식 수집과 재현성 검증</b><br>Authors: <b>최종윤</b>, 신민석, 김동인, 김한결, 박명서</p><p><b>알림 저장 앱을 활용한 모바일 메신저 아티팩트 분석</b><br>Authors: 김동인, <b>최종윤</b>, 박명서</p><p><b>생성형 AI 기반 Perplexity 대화 데이터 획득 방안 연구</b><br>Authors: 신민석, <b>최종윤</b>, 김한결, 위다빈, 박명서</p></td></tr></table>
 
-#### CISC-W 2025
+#### ✦ CISC-W 2025
 
 <table width="760"><tr><td><p><b>CLOVA Note API 기반 음성 포렌식 및 발화 분석 연구</b><br>Authors: <b>최종윤</b>, 신민석, 김한결, 위다빈, 박명서</p><p><b>오픈소스 기반 Yurei 랜섬웨어에 대한 동작 분석 및 연관성 식별 연구</b><br>Authors: 김한결, 위다빈, <b>최종윤</b>, 신민석, 박명서</p></td></tr></table>
 
@@ -252,7 +252,7 @@ CLOVA Note API 기반 음성 포렌식 및 발화 분석 연구
 
 ### International Journal
 
-#### 2026
+#### 🌙 2026
 
 <table width="760"><tr><td width="580" valign="top">
 
@@ -273,7 +273,7 @@ Forensic Science International: Digital Investigation · Vol. 58 · 2026
 
 ### Domestic Journals
 
-#### 2026
+#### 🌙 2026
 
 <table width="760"><tr><td width="580" valign="top">
 
@@ -326,7 +326,7 @@ Forensic Science International: Digital Investigation · Vol. 58 · 2026
 
 </td><td width="180" align="center" valign="middle"><img src="./papers/paper_notes_2026.jpg" width="140" alt="논문 첫 페이지"></td></tr></table>
 
-#### 2025
+#### ⭐ 2025
 
 <table width="760"><tr><td width="580" valign="top">
 

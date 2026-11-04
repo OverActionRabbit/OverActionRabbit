@@ -84,7 +84,7 @@
 **수상일**  
 날짜 입력 예정
 
-</td><td width="180" align="center" valign="middle"><img src="./award/BU1.jpg" width="140" alt="정보보호학회장상 상장"></td></tr></table>
+</td><td width="180" align="center" valign="middle"><img src="./award/2026_01.jpg" width="140" alt="정보보호학회장상 상장"></td></tr></table>
 
 <table width="760"><tr><td width="580" valign="top">
 
@@ -102,7 +102,7 @@
 **수상일**  
 날짜 입력 예정
 
-</td><td width="180" align="center" valign="middle"><img src="./award/2026_04.jpeg" width="140" alt="부채널연구회장상 상장"></td></tr></table>
+</td><td width="180" align="center" valign="middle"><img src="./award/BU1.jpg" width="140" alt="부채널연구회장상 상장"></td></tr></table>
 
 ### ⭐ 2025
 

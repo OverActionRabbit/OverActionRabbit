@@ -1,13 +1,8 @@
 <div align="center">
 
-# 🧑‍🎓 JongYun Choi
+<img src="./profile-banner.svg" width="100%" alt="🧑‍🎓 JongYun Choi · 디지털 포렌식 및 정보보안 연구자 · 한성대학교 대학원 융합보안학과">
 
-**디지털 포렌식 및 정보보안 연구자**  
-한성대학교 대학원 융합보안학과
-
-<sub>Digital Forensics · Cloud & Groupware Forensics · AI Data Forensics</sub>
-
-<a href="#honors-awards"><img src="https://img.shields.io/badge/ACADEMIC_AWARDS-9-17385E?style=flat-square" alt="Academic Awards 9"></a> <a href="#conference-presentations"><img src="https://img.shields.io/badge/CONFERENCE_PAPERS-16-235789?style=flat-square" alt="Conference Papers 16"></a> <a href="#publications"><img src="https://img.shields.io/badge/JOURNAL_ARTICLES-5-3674B5?style=flat-square" alt="Journal Articles 5"></a>
+<a href="#honors-awards"><img src="https://img.shields.io/badge/🏆_ACADEMIC_AWARDS-9-9B83DB?style=for-the-badge&labelColor=171329" alt="Academic Awards 9"></a> <a href="#conference-presentations"><img src="https://img.shields.io/badge/🌟_CONFERENCE_PAPERS-16-7BC8E9?style=for-the-badge&labelColor=171329" alt="Conference Papers 16"></a> <a href="#publications"><img src="https://img.shields.io/badge/🌙_JOURNAL_ARTICLES-5-F5A9C6?style=for-the-badge&labelColor=171329" alt="Journal Articles 5"></a>
 
 </div>
 
@@ -22,6 +17,7 @@
 
 ---
 
+<a id="honors-awards"></a>
 ## 🏆 Honors & Awards
 
 ### 2026
@@ -49,7 +45,7 @@
 **02. 한국방송통신전파진흥원장상(KCA)**
 
 **학회 / 대회**  
-2026 제7회 호남 사이버보안 컨퍼런스
+2026 제7회 호남 사이버보안 컨퍼런스  
 2026 한국정보보호학회 추계학술대회 호남지부
 
 **논문**  
@@ -106,7 +102,7 @@
 **05. 한국방송통신전파진흥원장상(KCA)**
 
 **학회 / 대회**  
-2025 제6회 호남 사이버보안 컨퍼런스
+2025 제6회 호남 사이버보안 컨퍼런스  
 2025 한국정보보호학회 추계학술대회 호남지부
 
 **논문**  
@@ -194,6 +190,7 @@ CLOVA Note API 기반 음성 포렌식 및 발화 분석 연구
 
 ---
 
+<a id="conference-presentations"></a>
 ## 🎤 Conference Presentations
 
 <details>
@@ -241,6 +238,7 @@ CLOVA Note API 기반 음성 포렌식 및 발화 분석 연구
 
 ---
 
+<a id="publications"></a>
 ## 📄 Publications
 
 ### International Journal

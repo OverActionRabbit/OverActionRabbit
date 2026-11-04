@@ -268,7 +268,7 @@ Forensic Science International: Digital Investigation · Vol. 58 · 2026
 **논문 링크**  
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S2666281726001526">논문 보기 ↗</a>
 
-</td><td width="180" align="center" valign="middle"><a href="https://www.sciencedirect.com/science/article/abs/pii/S2666281726001526"><img src="./papers/a4.jpg" width="140" alt="논문 첫 페이지"></a></td></tr></table>
+</td><td width="180" align="center" valign="middle"><a href="https://www.sciencedirect.com/science/article/abs/pii/S2666281726001526"><img src="./papers/a4.png" width="140" alt="논문 첫 페이지"></a></td></tr></table>
 
 ### Domestic Journals
 
@@ -288,7 +288,7 @@ Forensic Science International: Digital Investigation · Vol. 58 · 2026
 **논문 링크**  
 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12942138">논문 보기 ↗</a>
 
-</td><td width="180" align="center" valign="middle"><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12942138"><img src="./papers/a3.jpg" width="140" alt="논문 첫 페이지"></a></td></tr></table>
+</td><td width="180" align="center" valign="middle"><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12942138"><img src="./papers/a3.png" width="140" alt="논문 첫 페이지"></a></td></tr></table>
 
 <table width="760"><tr><td width="580" valign="top">
 
@@ -304,7 +304,7 @@ Forensic Science International: Digital Investigation · Vol. 58 · 2026
 **논문 링크**  
 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12904434">논문 보기 ↗</a>
 
-</td><td width="180" align="center" valign="middle"><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12904434"><img src="./papers/a2.jpg" width="140" alt="논문 첫 페이지"></a></td></tr></table>
+</td><td width="180" align="center" valign="middle"><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12904434"><img src="./papers/a2.png" width="140" alt="논문 첫 페이지"></a></td></tr></table>
 
 <table width="760"><tr><td width="580" valign="top">
 
@@ -320,7 +320,7 @@ Forensic Science International: Digital Investigation · Vol. 58 · 2026
 **논문 링크**  
 <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003331390">논문 보기 ↗</a>
 
-</td><td width="180" align="center" valign="middle"><a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003331390"><img src="./papers/a1.jpg" width="140" alt="논문 첫 페이지"></a></td></tr></table>
+</td><td width="180" align="center" valign="middle"><a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003331390"><img src="./papers/a1.png" width="140" alt="논문 첫 페이지"></a></td></tr></table>
 
 #### ⭐ 2025
 

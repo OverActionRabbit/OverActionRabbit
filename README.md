@@ -277,7 +277,7 @@ Forensic Science International: Digital Investigation · Vol. 58 · 2026
 <table width="760"><tr><td width="580" valign="top">
 
 **제목**  
-생성형 AI 대화 데이터의 수집 및 분석 연구: Wrtn과 Perplexity 애플리케이션 중심으로
+생성형 AI 대화 데이터의 수집 및 분석 연구: </br>Wrtn과 Perplexity 애플리케이션 중심으로
 
 **저자**  
 <b>최종윤</b>, 신민석, 김동인, 김한결, 박명서

@@ -239,7 +239,7 @@ Wrtn API 재구성에 기반한 생성형 AI 대화 기록물 포렌식 수집�
 
 <table width="760"><tr><td><p><b>그룹웨어 포렌식 기법 연구: Hiworks–DaouOffice 사례</b><br>Authors: 신민석, <b>최종윤</b>, 장규영, 김한결, 김동인, 박명서</p></td></tr></table>
 
-#### ✦ 한국포렌식학회 논문경진대회
+#### ✦ FORENSIC KOREA 2026
 
 <table width="760"><tr><td><p><b>조직 내부 데이터 압수수색을 위한 그룹웨어 포렌식 기술 연구: DaouOffice를 중심으로</b><br>Authors: 신민석, 김동인, 장규영, <b>최종윤</b>, 박명서</p></td></tr></table>
 

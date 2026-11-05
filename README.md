@@ -231,9 +231,9 @@ Wrtn API 재구성에 기반한 생성형 AI 대화 기록물 포렌식 수집�
 
 ### ⭐ 2025 (9편)
 
-#### ✦ CISC-S 2025
+#### ✦ CISC-W 2025
 
-<table width="760"><tr><td><p><b>불법 스포츠 스트리밍 사이트 탐지를 위한 텍스트 키워드 기반 랜덤 포레스트 모델 설계</b><br>Authors: <b>최종윤</b>, 김한결, 박명서</p><p><b>크리덴셜 마이그레이션을 활용한 MYBOX 탐색기 대상의 클라우드 포렌식 연구</b><br>Authors: 김한결, 위다빈, 안원석, <b>최종윤</b>, 박명서</p></td></tr></table>
+<table width="760"><tr><td><p><b>CLOVA Note API 기반 음성 포렌식 및 발화 분석 연구</b><br>Authors: <b>최종윤</b>, 신민석, 김한결, 위다빈, 박명서</p><p><b>오픈소스 기반 Yurei 랜섬웨어에 대한 동작 분석 및 연관성 식별 연구</b><br>Authors: 김한결, 위다빈, <b>최종윤</b>, 신민석, 박명서</p></td></tr></table>
 
 #### ✦ KIISCCC 2025
 
@@ -247,9 +247,9 @@ Wrtn API 재구성에 기반한 생성형 AI 대화 기록물 포렌식 수집�
 
 <table width="760"><tr><td><p><b>Wrtn API 재구성에 기반한 생성형 AI 대화 기록물 포렌식 수집과 재현성 검증</b><br>Authors: <b>최종윤</b>, 신민석, 김동인, 김한결, 박명서</p><p><b>알림 저장 앱을 활용한 모바일 메신저 아티팩트 분석</b><br>Authors: 김동인, <b>최종윤</b>, 박명서</p><p><b>생성형 AI 기반 Perplexity 대화 데이터 획득 방안 연구</b><br>Authors: 신민석, <b>최종윤</b>, 김한결, 위다빈, 박명서</p></td></tr></table>
 
-#### ✦ CISC-W 2025
+#### ✦ CISC-S 2025
 
-<table width="760"><tr><td><p><b>CLOVA Note API 기반 음성 포렌식 및 발화 분석 연구</b><br>Authors: <b>최종윤</b>, 신민석, 김한결, 위다빈, 박명서</p><p><b>오픈소스 기반 Yurei 랜섬웨어에 대한 동작 분석 및 연관성 식별 연구</b><br>Authors: 김한결, 위다빈, <b>최종윤</b>, 신민석, 박명서</p></td></tr></table>
+<table width="760"><tr><td><p><b>불법 스포츠 스트리밍 사이트 탐지를 위한 텍스트 키워드 기반 랜덤 포레스트 모델 설계</b><br>Authors: <b>최종윤</b>, 김한결, 박명서</p><p><b>크리덴셜 마이그레이션을 활용한 MYBOX 탐색기 대상의 클라우드 포렌식 연구</b><br>Authors: 김한결, 위다빈, 안원석, <b>최종윤</b>, 박명서</p></td></tr></table>
 
 </details>
 

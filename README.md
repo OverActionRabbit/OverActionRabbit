@@ -108,7 +108,61 @@ An API-based cloud forensics framework for collaboration tools: A case study of 
 
 <table width="760"><tr><td width="580" valign="top">
 
-**✦ 05. 한국방송통신전파진흥원장상(KCA)**
+**✦ 05. 우수 정보보호학회장상**
+
+**학회 / 대회**  
+2025년도 한국정보보호학회 동계학술대회
+
+**논문**  
+CLOVA Note API 기반 음성 포렌식 및 발화 분석 연구
+
+**수상자 / 저자**  
+<b>최종윤</b>, 신민석, 김한결, 위다빈, 박명서
+
+**수상일**  
+2025-11-27
+
+</td><td width="180" align="center" valign="middle"><img src="./award/JB.jpeg" width="140" alt="정보보호학회장상 · 우수논문 상장"></td></tr></table>
+
+<table width="760"><tr><td width="580" valign="top">
+
+**✦ 06. 한국전자통신연구원(ETRI) 원장상**
+
+**학회 / 대회**  
+2025 한국정보보호학회 충청지부 학술대회
+
+**논문**  
+그룹웨어 포렌식 기법 연구: Hiworks–DaouOffice 사례
+
+**수상자 / 저자**  
+신민석, <b>최종윤</b>, 장규영, 김한결, 김동인, 박명서
+
+**수상일**  
+2025-09-30
+
+</td><td width="180" align="center" valign="middle"><img src="./award/ETRI.jpeg" width="140" alt="한국전자통신연구원(ETRI) 원장상 상장"></td></tr></table>
+
+<table width="760"><tr><td width="580" valign="top">
+
+**✦ 07. 한국포렌식학회 논문경진대회 은상**
+
+**학회 / 대회**  
+2025 제2회 논문경진대회
+
+**논문**  
+조직 내부 데이터 압수 수색을 위한 그룹웨어 포렌식 기술 연구: DaouOffice를 중심으로
+
+**수상자 / 저자**  
+<b>최종윤</b>
+
+**수상일**  
+2025-09-23
+
+</td><td width="180" align="center" valign="middle"><img src="./award/FR.jpg" width="140" alt="한국포렌식학회 논문경진대회 · 은상 상장"></td></tr></table>
+
+<table width="760"><tr><td width="580" valign="top">
+
+**✦ 08. 한국방송통신전파진흥원장상(KCA)**
 
 **학회 / 대회**  
 2025 제6회 호남 사이버보안 컨퍼런스  
@@ -127,43 +181,7 @@ Wrtn API 재구성에 기반한 생성형 AI 대화 기록물 포렌식 수집�
 
 <table width="760"><tr><td width="580" valign="top">
 
-**✦ 06. 우수 정보보호학회장상**
-
-**학회 / 대회**  
-2025년도 한국정보보호학회 동계학술대회
-
-**논문**  
-CLOVA Note API 기반 음성 포렌식 및 발화 분석 연구
-
-**수상자 / 저자**  
-<b>최종윤</b>, 신민석, 김한결, 위다빈, 박명서
-
-**수상일**  
-2025-11-27
-
-</td><td width="180" align="center" valign="middle"><img src="./award/JB.jpeg" width="140" alt="정보보호학회장상 · 우수논문 상장"></td></tr></table>
-
-<table width="760"><tr><td width="580" valign="top">
-
-**✦ 07. 한국전자통신연구원(ETRI) 원장상**
-
-**학회 / 대회**  
-2025 한국정보보호학회 충청지부 학술대회
-
-**논문**  
-그룹웨어 포렌식 기법 연구: Hiworks–DaouOffice 사례
-
-**수상자 / 저자**  
-신민석, <b>최종윤</b>, 장규영, 김한결, 김동인, 박명서
-
-**수상일**  
-2025-09-30
-
-</td><td width="180" align="center" valign="middle"><img src="./award/ETRI.jpeg" width="140" alt="한국전자통신연구원(ETRI) 원장상 상장"></td></tr></table>
-
-<table width="760"><tr><td width="580" valign="top">
-
-**✦ 08. 정보보호학회 호남지부장상**
+**✦ 09. 정보보호학회 호남지부장상**
 
 **학회 / 대회**  
 2025 제6회 호남 사이버보안 컨퍼런스 추계학술대회
@@ -178,24 +196,6 @@ CLOVA Note API 기반 음성 포렌식 및 발화 분석 연구
 2025-09-18
 
 </td><td width="180" align="center" valign="middle"><img src="./award/HN.jpeg" width="140" alt="우수논문상 (호남지부) 상장"></td></tr></table>
-
-<table width="760"><tr><td width="580" valign="top">
-
-**✦ 09. 한국포렌식학회 논문경진대회 은상**
-
-**학회 / 대회**  
-2025 제2회 논문경진대회
-
-**논문**  
-조직 내부 데이터 압수 수색을 위한 그룹웨어 포렌식 기술 연구: DaouOffice를 중심으로
-
-**수상자 / 저자**  
-<b>최종윤</b>
-
-**수상일**  
-2025-09-23
-
-</td><td width="180" align="center" valign="middle"><img src="./award/FR.jpg" width="140" alt="한국포렌식학회 논문경진대회 · 은상 상장"></td></tr></table>
 
 ---
 

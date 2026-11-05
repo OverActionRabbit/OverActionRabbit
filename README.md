@@ -255,7 +255,7 @@ Wrtn API 재구성에 기반한 생성형 AI 대화 기록물 포렌식 수집�
 
 ---
 
-## 🔐 Messenger Access Control Vulnerability Analysis
+## 🔐 Messenger Vulnerability Analysis and Reporting
 
 `Access Control` `Reverse Engineering` `Network Analysis` `Application Security`
 

@@ -9,7 +9,7 @@
 
 <br>
 
-<a href="#honors-awards"><img src="https://img.shields.io/badge/✦_ACADEMIC_AWARDS-9-9B83DB?style=flat-square&labelColor=101020" alt="Academic Awards 9"></a> <a href="#conference-presentations"><img src="https://img.shields.io/badge/✦_CONFERENCE_PAPERS-16-7BC8E9?style=flat-square&labelColor=101020" alt="Conference Papers 16"></a> <a href="#publications"><img src="https://img.shields.io/badge/✦_JOURNAL_ARTICLES-5-F5A9C6?style=flat-square&labelColor=101020" alt="Journal Articles 5"></a>
+<a href="#honors-awards"><img src="https://img.shields.io/badge/✦_ACADEMIC_AWARDS-9-9B83DB?style=flat-square&labelColor=101020" alt="Academic Awards 9"></a> <a href="#conference-presentations"><img src="https://img.shields.io/badge/✦_CONFERENCE_PAPERS-18-7BC8E9?style=flat-square&labelColor=101020" alt="Conference Papers 18"></a> <a href="#publications"><img src="https://img.shields.io/badge/✦_JOURNAL_ARTICLES-5-F5A9C6?style=flat-square&labelColor=101020" alt="Journal Articles 5"></a>
 
 <sub>🌙 · ✦ · 🪐 · ✧ · ⭐</sub>
 
@@ -203,11 +203,15 @@ CLOVA Note API 기반 음성 포렌식 및 발화 분석 연구
 ## 🎤 Conference Presentations
 
 <details>
-<summary><b>📚 학술대회 발표 논문 전체 보기 · 16편 (클릭하여 펼치기)</b></summary>
+<summary><b>📚 학술대회 발표 논문 전체 보기 · 18편 (클릭하여 펼치기)</b></summary>
 
 <br>
 
-### 🌙 2026 (8편)
+### 🌙 2026 (10편)
+
+#### ✦ 한국디지털포렌식학회 동계학술대회
+
+<table width="760"><tr><td><p><b>소셜 미디어 기반 Instagram DM 데이터 획득 및 포렌식 분석 연구</b><br>Authors: <b>최종윤</b>, 장규영, 신민석, 김한결, 박명서</p><p><b>기업용 그룹웨어 메신저 A의 접근통제 취약점 분석과 사용자 데이터 보안 위협에 관한 연구</b><br>Authors: 신민석, 김한결, <b>최종윤</b>, 박명서</p></td></tr></table>
 
 #### ✦ 한국정보보호학회 동계학술대회
 

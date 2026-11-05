@@ -239,7 +239,7 @@ Wrtn API 재구성에 기반한 생성형 AI 대화 기록물 포렌식 수집�
 
 <table width="760"><tr><td><p><b>그룹웨어 포렌식 기법 연구: Hiworks–DaouOffice 사례</b><br>Authors: 신민석, <b>최종윤</b>, 장규영, 김한결, 김동인, 박명서</p></td></tr></table>
 
-#### ✦ FORENSIC KOREA 2026
+#### ✦ 한국포렌식학회 논문경진대회
 
 <table width="760"><tr><td><p><b>조직 내부 데이터 압수수색을 위한 그룹웨어 포렌식 기술 연구: DaouOffice를 중심으로</b><br>Authors: 신민석, 김동인, 장규영, <b>최종윤</b>, 박명서</p></td></tr></table>
 
@@ -252,6 +252,26 @@ Wrtn API 재구성에 기반한 생성형 AI 대화 기록물 포렌식 수집�
 <table width="760"><tr><td><p><b>CLOVA Note API 기반 음성 포렌식 및 발화 분석 연구</b><br>Authors: <b>최종윤</b>, 신민석, 김한결, 위다빈, 박명서</p><p><b>오픈소스 기반 Yurei 랜섬웨어에 대한 동작 분석 및 연관성 식별 연구</b><br>Authors: 김한결, 위다빈, <b>최종윤</b>, 신민석, 박명서</p></td></tr></table>
 
 </details>
+
+---
+
+## 🔐 Messenger Access Control Vulnerability Analysis
+
+`Access Control` `Reverse Engineering` `Network Analysis` `Application Security`
+
+<table width="760"><tr><td width="580" valign="top">
+
+**분석 대상:** 상용 메신저 서비스
+
+상용 메신저 서비스의 클라이언트 구조와 네트워크 통신 과정을 분석하고, 사용자 간 접근통제 및 권한 검증 체계에서 발생하는 보안 취약점을 확인하였습니다.
+
+분석 결과, 해당 취약점을 통해 타 사용자의 채팅방과 전체 메시지 내역을 조회하고, 채팅방에 포함된 첨부파일의 원본 데이터를 획득할 수 있음을 확인하였습니다. 또한 타 사용자 명의로 메시지를 전송하거나 삭제하고, 활성화된 사용자 세션을 종료하는 행위도 가능함을 검증하였습니다.
+
+특히 사용자 식별 번호가 순차적으로 증가하는 구조로 관리되어 식별 값의 예측이 가능하였으며, 이를 통해 개별 사용자뿐만 아니라 다수 사용자에게 피해가 확산될 수 있는 대규모 공격 가능성을 확인하였습니다. 이러한 취약점은 대화 내용과 업무 데이터의 **기밀성**, 메시지의 **무결성**, 사용자 세션 및 서비스의 **가용성**에 영향을 미칠 수 있음을 확인하였습니다.
+
+확인된 취약점은 **한국인터넷진흥원(KISA)에 제보**하였으며, 이후 서비스 제공사의 보안 조치를 통해 **관련 취약점의 패치가 완료되었습니다.**
+
+</td><td width="180" align="center" valign="middle"><img src="./award/messenger_access_control.png" width="140" alt="메신저 접근통제 취약점 관련 이미지"></td></tr></table>
 
 ---
 

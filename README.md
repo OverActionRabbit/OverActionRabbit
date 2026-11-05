@@ -364,7 +364,7 @@ Forensic Science International: Digital Investigation · Vol. 58 · 2026
 **논문 링크**  
 <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12585942">논문 보기 ↗</a>
 
-</td><td width="180" align="center" valign="middle"><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12585942"><img src="./award/a6.png" width="140" alt="NAVER MYBOX 논문 첫 페이지"></a></td></tr></table>
+</td><td width="180" align="center" valign="middle"><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12585942"><img src="./award/b1.png" width="140" alt="NAVER MYBOX 논문 첫 페이지"></a></td></tr></table>
 
 #### ⭐ 2025
 

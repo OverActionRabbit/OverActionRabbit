@@ -9,7 +9,7 @@
 
 <br>
 
-<a href="#honors-awards"><img src="https://img.shields.io/badge/✦_ACADEMIC_AWARDS-9-9B83DB?style=flat-square&labelColor=101020" alt="Academic Awards 9"></a> <a href="#conference-presentations"><img src="https://img.shields.io/badge/✦_CONFERENCE_PAPERS-18-7BC8E9?style=flat-square&labelColor=101020" alt="Conference Papers 18"></a> <a href="#publications"><img src="https://img.shields.io/badge/✦_JOURNAL_ARTICLES-6-F5A9C6?style=flat-square&labelColor=101020" alt="Journal Articles 6"></a>
+<a href="#honors-awards"><img src="https://img.shields.io/badge/✦_ACADEMIC_AWARDS-9-9B83DB?style=flat-square&labelColor=101020" alt="Academic Awards 9"></a> <a href="#conference-presentations"><img src="https://img.shields.io/badge/✦_CONFERENCE_PAPERS-19-7BC8E9?style=flat-square&labelColor=101020" alt="Conference Papers 19"></a> <a href="#publications"><img src="https://img.shields.io/badge/✦_JOURNAL_ARTICLES-6-F5A9C6?style=flat-square&labelColor=101020" alt="Journal Articles 6"></a>
 
 <sub>🌙 · ✦ · 🪐 · ✧ · ⭐</sub>
 
@@ -203,7 +203,7 @@ Wrtn API 재구성에 기반한 생성형 AI 대화 기록물 포렌식 수집�
 ## 🎤 Conference Presentations
 
 <details>
-<summary><b>📚 학술대회 발표 논문 전체 보기 · 18편 (클릭하여 펼치기)</b></summary>
+<summary><b>📚 학술대회 발표 논문 전체 보기 · 19편 (클릭하여 펼치기)</b></summary>
 
 <br>
 
@@ -229,7 +229,7 @@ Wrtn API 재구성에 기반한 생성형 AI 대화 기록물 포렌식 수집�
 
 <table width="760"><tr><td><p><b>Google Drive 서비스의 API 재구성 기반 선택적 데이터 수집 및 숨김·삭제 파일 메타데이터 획득 연구</b><br>Authors: 신민석, <b>최종윤</b>, 김한결, 김대환, 박명서</p><p><b>상담 음성 기반 프로파일 화자 분리 및 발화 재구성 연구</b><br>Authors: <b>최종윤</b>, 신민석, 김대환, 김한결, 박명서</p></td></tr></table>
 
-### ⭐ 2025 (8편)
+### ⭐ 2025 (9편)
 
 #### ✦ CISC-S 2025
 
@@ -238,6 +238,10 @@ Wrtn API 재구성에 기반한 생성형 AI 대화 기록물 포렌식 수집�
 #### ✦ KIISCCC 2025
 
 <table width="760"><tr><td><p><b>그룹웨어 포렌식 기법 연구: Hiworks–DaouOffice 사례</b><br>Authors: 신민석, <b>최종윤</b>, 장규영, 김한결, 김동인, 박명서</p></td></tr></table>
+
+#### ✦ 한국포렌식학회 논문경진대회
+
+<table width="760"><tr><td><p><b>조직 내부 데이터 압수수색을 위한 그룹웨어 포렌식 기술 연구: DaouOffice를 중심으로</b><br>Authors: 신민석, 김동인, 장규영, <b>최종윤</b>, 박명서</p></td></tr></table>
 
 #### ✦ HONAM 2025
 

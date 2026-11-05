@@ -39,13 +39,13 @@
 2026 한국정보보호학회 동계학술대회
 
 **논문**  
-논문 제목 입력 예정
+Hiworks Messenger의 Socket.IO 기반 통신 프로토콜 역공학을 통한 메신저 데이터 획득
 
 **수상자 / 저자**  
 신민석, 김한결, <b>최종윤</b>, 박명서
 
 **수상일**  
-날짜 입력 예정
+2026-10-28
 
 </td><td width="180" align="center" valign="middle"><img src="./award/DD.jpg" width="140" alt="최우수 정보보호학회장상 상장"></td></tr></table>
 
@@ -58,13 +58,13 @@
 2026 한국정보보호학회 추계학술대회 호남지부
 
 **논문**  
-논문 제목 입력 예정
+안드로이드 환경에서의 정보은닉 애플리케이션 Private Photo Vault 분석 연구
 
 **수상자 / 저자**  
 김대환, 안원석, <b>최종윤</b>, 신민석, 한동균, 박명서
 
 **수상일**  
-날짜 입력 예정
+2026-09-15
 
 </td><td width="180" align="center" valign="middle"><img src="./award/2026_01.jpg" width="140" alt="한국방송통신전파진흥원장상 상장"></td></tr></table>
 
@@ -76,13 +76,13 @@
 2026 부채널정보분석경진대회 워크샵
 
 **논문**  
-논문 제목 입력 예정
+Windows MacOS 환경에서의 Google Drive 내부 API 재구성 기반 선택적 메타데이터 수집 및 숨김 삭제된 파일 획득 자동화 도구 구현
 
 **수상자 / 저자**  
 신민석, <b>최종윤</b>, 김한결, 김대환, 박화비, 박명서
 
 **수상일**  
-날짜 입력 예정
+2026-07-01
 
 </td><td width="180" align="center" valign="middle"><img src="./award/BU.jpg" width="140" alt="정보보호학회장상 상장"></td></tr></table>
 
@@ -94,13 +94,13 @@
 2026 부채널정보분석경진대회 워크샵
 
 **논문**  
-논문 제목 입력 예정
+An API-based cloud forensics framework for collaboration tools: A case study of slack
 
 **수상자 / 저자**  
 김한결, 위다빈, <b>최종윤</b>, 박명서
 
 **수상일**  
-날짜 입력 예정
+2026-07-01
 
 </td><td width="180" align="center" valign="middle"><img src="./award/BU1.jpg" width="140" alt="부채널연구회장상 상장"></td></tr></table>
 
@@ -281,7 +281,7 @@ Forensic Science International: Digital Investigation · Vol. 58 · 2026
 <table width="760"><tr><td width="580" valign="top">
 
 **제목**  
-생성형 AI 대화 데이터의 수집 및 분석 연구: Wrtn과 Perplexity 애플리케이션 </br>중심으로
+생성형 AI 대화 데이터의 수집 및 분석 연구: Wrtn과 Perplexity 애플리케이션 중심으로
 
 **저자**  
 <b>최종윤</b>, 신민석, 김동인, 김한결, 박명서

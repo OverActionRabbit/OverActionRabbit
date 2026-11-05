@@ -271,7 +271,7 @@ Wrtn API 재구성에 기반한 생성형 AI 대화 기록물 포렌식 수집�
 
 확인된 취약점은 **한국인터넷진흥원(KISA)에 제보**하였으며, 이후 서비스 제공사의 보안 조치를 통해 **관련 취약점의 패치가 완료되었습니다.**
 
-</td><td width="180" align="center" valign="middle"><img src="./award/messenger_access_control.png" width="140" alt="메신저 접근통제 취약점 관련 이미지"></td></tr></table>
+</td><td width="180" align="center" valign="middle"><img src="./award/a6.png" width="140" alt="메신저 접근통제 취약점 관련 이미지"></td></tr></table>
 
 ---
 

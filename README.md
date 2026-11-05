@@ -268,7 +268,7 @@ Forensic Science International: Digital Investigation · Vol. 58 · 2026
 **논문 링크**  
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S2666281726001526">논문 보기 ↗</a>
 
-</td><td width="180" align="center" valign="middle"><a href="https://www.sciencedirect.com/science/article/abs/pii/S2666281726001526"><img src="./award/a5.png" width="140" alt="논문 첫 페이지"></a></td></tr></table>
+</td><td width="180" align="center" valign="middle"><a href="https://www.sciencedirect.com/science/article/abs/pii/S2666281726001526"><img src="./award/a.png" width="140" alt="논문 첫 페이지"></a></td></tr></table>
 
 ### Domestic Journals
 

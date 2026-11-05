@@ -9,7 +9,7 @@
 
 <br>
 
-<a href="#honors-awards"><img src="https://img.shields.io/badge/✦_ACADEMIC_AWARDS-9-9B83DB?style=flat-square&labelColor=101020" alt="Academic Awards 9"></a> <a href="#conference-presentations"><img src="https://img.shields.io/badge/✦_CONFERENCE_PAPERS-18-7BC8E9?style=flat-square&labelColor=101020" alt="Conference Papers 18"></a> <a href="#publications"><img src="https://img.shields.io/badge/✦_JOURNAL_ARTICLES-5-F5A9C6?style=flat-square&labelColor=101020" alt="Journal Articles 5"></a>
+<a href="#honors-awards"><img src="https://img.shields.io/badge/✦_ACADEMIC_AWARDS-9-9B83DB?style=flat-square&labelColor=101020" alt="Academic Awards 9"></a> <a href="#conference-presentations"><img src="https://img.shields.io/badge/✦_CONFERENCE_PAPERS-18-7BC8E9?style=flat-square&labelColor=101020" alt="Conference Papers 18"></a> <a href="#publications"><img src="https://img.shields.io/badge/✦_JOURNAL_ARTICLES-6-F5A9C6?style=flat-square&labelColor=101020" alt="Journal Articles 6"></a>
 
 <sub>🌙 · ✦ · 🪐 · ✧ · ⭐</sub>
 
@@ -325,6 +325,22 @@ Forensic Science International: Digital Investigation · Vol. 58 · 2026
 <a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003331390">논문 보기 ↗</a>
 
 </td><td width="180" align="center" valign="middle"><a href="https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003331390"><img src="./award/a2.png" width="140" alt="논문 첫 페이지"></a></td></tr></table>
+
+<table width="760"><tr><td width="580" valign="top">
+
+**제목**  
+크리덴셜 마이그레이션을 통한 NAVER MYBOX 클라우드 저장소 접근 기술 연구
+
+**저자**  
+김한결, 위다빈, 안원석, <b>최종윤</b>, 박명서
+
+**학회**  
+정보보호학회논문지 · 36(1) · pp. 293–305 · 2026
+
+**논문 링크**  
+<a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12585942">논문 보기 ↗</a>
+
+</td><td width="180" align="center" valign="middle"><a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12585942"><img src="./award/a6.png" width="140" alt="NAVER MYBOX 논문 첫 페이지"></a></td></tr></table>
 
 #### ⭐ 2025
 

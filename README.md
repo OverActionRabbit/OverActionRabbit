@@ -21,7 +21,7 @@
 
 <table>
 <tr><td width="80" align="center"><img src="./award/HU.png" width="55"></td><td><b>M.S. in Information Security</b><br>Department of Convergence Security<br>Hansung University, Korea<br><sub>Graduate Student</sub></td></tr>
-<tr><td align="center"><img src="./award/HKNU.png" width="55"></td><td><b>B.S. in Software &amp; Service Computing</b><br>Department of Software &amp; Service Computing<br>Hankyong National University, Korea</td></tr>
+<tr><td align="center"><img src="./award/HKNU.png" width="55"></td><td><b>B.S. in Software &amp; Service Computing</b><br>Department of Software &amp; Service Computing<br>Hankyong National University, Korea<br><sub>Graduation: 2025.02</sub></td></tr>
 </table>
 
 ---

@@ -9,7 +9,7 @@
 
 <br>
 
-<a href="#honors-awards"><img src="https://img.shields.io/badge/✦_ACADEMIC_AWARDS-9-9B83DB?style=flat-square&labelColor=101020" alt="Academic Awards 9"></a> <a href="#conference-presentations"><img src="https://img.shields.io/badge/✦_CONFERENCE_PAPERS-19-7BC8E9?style=flat-square&labelColor=101020" alt="Conference Papers 19"></a> <a href="#publications"><img src="https://img.shields.io/badge/✦_JOURNAL_ARTICLES-6-F5A9C6?style=flat-square&labelColor=101020" alt="Journal Articles 6"></a>
+<a href="#honors-awards"><img src="https://img.shields.io/badge/✦_ACADEMIC_AWARDS-9-9B83DB?style=flat-square&labelColor=101020" alt="Academic Awards 9"></a> <a href="#conference-presentations"><img src="https://img.shields.io/badge/✦_CONFERENCE_PAPERS-20-7BC8E9?style=flat-square&labelColor=101020" alt="Conference Papers 20"></a> <a href="#publications"><img src="https://img.shields.io/badge/✦_JOURNAL_ARTICLES-6-F5A9C6?style=flat-square&labelColor=101020" alt="Journal Articles 6"></a>
 
 <sub>🌙 · ✦ · 🪐 · ✧ · ⭐</sub>
 
@@ -203,11 +203,11 @@ Wrtn API 재구성에 기반한 생성형 AI 대화 기록물 포렌식 수집�
 ## 🎤 Conference Presentations
 
 <details>
-<summary><b>📚 학술대회 발표 논문 전체 보기 · 19편 (클릭하여 펼치기)</b></summary>
+<summary><b>📚 학술대회 발표 논문 전체 보기 · 20편 (클릭하여 펼치기)</b></summary>
 
 <br>
 
-### 🌙 2026 (10편)
+### 🌙 2026 (11편)
 
 #### ✦ KDFS-W 2026
 
@@ -215,7 +215,7 @@ Wrtn API 재구성에 기반한 생성형 AI 대화 기록물 포렌식 수집�
 
 #### ✦ CISC-W 2026
 
-<table width="760"><tr><td><p><b>Hiworks Messenger의 Socket.IO 기반 통신 프로토콜 역공학을 통한 메신저 데이터 획득</b><br>Authors: 신민석, 김한결, <b>최종윤</b>, 박명서</p><p><b>국가안보 관점에서 바라본 디지털 포렌식 기술 연구</b><br>Authors: <b>최종윤</b>, 김대환, 신민석, 김한결, 박명서</p></td></tr></table>
+<table width="760"><tr><td><p><b>Hiworks Messenger의 Socket.IO 기반 통신 프로토콜 역공학을 통한 메신저 데이터 획득</b><br>Authors: 신민석, 김한결, <b>최종윤</b>, 박명서</p><p><b>국가안보 관점에서 바라본 디지털 포렌식 기술 연구</b><br>Authors: <b>최종윤</b>, 김대환, 신민석, 김한결, 박명서</p><p><b>대규모 언어 모델을 활용한 악성코드 분석 기술 동향과 랜섬웨어 분석 적용 방안</b><br>Authors: 김대환, 박화비, <b>최종윤</b>, 박명서</p></td></tr></table>
 
 #### ✦ HONAM 2026
 
